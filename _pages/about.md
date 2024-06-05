@@ -68,7 +68,7 @@ DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models
 
 # 📖 Educations
 - *2022.06 - 2024.06 (now)*, PhD in Electrical, Electronics, Communications Engineering, National Taiwan University
-- *2019.09 - 2022.06*, Master in Department of Computer Science & Information Engineering, National Taiwan University 
+- *2019.09 - 2022.06*, Master in Department of Computer Science and Information Engineering, National Taiwan University 
 
 # 💻 Internships
 - *2021.07 - 2021-09*, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
