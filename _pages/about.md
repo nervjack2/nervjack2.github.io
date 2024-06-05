@@ -33,9 +33,19 @@ If there are any possibilities for research collaboration, please feel free to c
 [MelHuBERT: A Simplified Hubert on Mel Spectrograms](https://ieeexplore.ieee.org/abstract/document/10389700)
 
 **Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
-
-[**Project**](https://github.com/nervjack2/MelHuBERT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/nervjack2/MelHuBERT)
 - MelHuBERT simplifies the model architecture and loss function of HuBERT, achieving comparable performance while saving 33.5% of MACs per one second of speech.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TASLP (under review)</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Compressing Transformer-based self-supervised models for speech processing](https://arxiv.org/abs/2211.09949)
+
+**Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Chang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
+[**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
+- This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
 </div>
 </div>
 
