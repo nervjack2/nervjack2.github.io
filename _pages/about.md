@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year PhD student at National Taiwan Cniversity, in the Speech Processing Lab. 
-My current research interests include speech self-supervised models, model compression, and neuron analysis. 
+I am currently a first-year PhD student at National Taiwan University, in the Speech Processing Lab. 
+My research interests include speech self-supervised models, model compression, and neuron analysis. 
+I am eager to explore new research areas and am currently looking for research internships for the year 2025. 
 If there are any possibilities for research collaboration, please feel free to contact me.
-
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
