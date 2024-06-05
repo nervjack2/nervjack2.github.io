@@ -67,9 +67,9 @@ DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022 Best Paper Finalists**
 
 # 📖 Educations
-- *(start from)2024.09*, PhD in Electrical, Electronics, Communications Engineering, National Taiwan University
+- *(start from)2024.09*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
 - *2022.09 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
-- *2019.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering, National Taiwan University 
+- *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
 # 💻 Internships
 - *2021.07 - 2021-09*, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
