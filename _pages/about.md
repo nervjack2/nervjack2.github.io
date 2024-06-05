@@ -23,7 +23,8 @@ I am eager to explore new research areas and am currently looking for research i
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Two papers (1 first author, 1 second author) accepted at Interspeech 2024. See you in Greece!
+- *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece!
+- *2023.09*: &nbsp;🎉🎉 One paper accepeted at ASRU 2023.
 
 # 📝 Publications 
 
