@@ -32,14 +32,15 @@ If there are any possibilities for research collaboration, please feel free to c
 
 [MelHuBERT: A Simplified Hubert on Mel Spectrograms](https://ieeexplore.ieee.org/abstract/document/10389700)
 
-**Tzu-Quan Lin**, Hung-Yi Lee, Hao Tang
+**Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
 
 [**Project**](https://github.com/nervjack2/MelHuBERT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - MelHuBERT simplifies the model architecture and loss function of HuBERT, achieving comparable performance while saving 33.5% of MACs per one second of speech.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [](On the social bias of speech self-supervised models), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024**
+- [](Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**. **SLT 2022 Best Paper Finalists**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
