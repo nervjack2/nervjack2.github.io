@@ -27,6 +27,18 @@ If there are any possibilities for research collaboration, please feel free to c
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2024</div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DAISY: Data Adaptive Self-Supervised Early Exit
+for Speech Representation Models]()
+
+**Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
+
+- This work introduces a novel early exit method for speech self-supervised models that enhances the speed of HuBERT with minimal performance loss.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2023</div><img src='_pages/images/melhubert-asru-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
