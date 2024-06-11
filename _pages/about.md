@@ -31,7 +31,7 @@ If there are any possibilities for research collaboration, please feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2024</div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models
+[DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models](https://arxiv.org/abs/2406.05464)
 
 **Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
 
@@ -63,7 +63,7 @@ DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models
 </div>
 </div>
 
-- On the social bias of speech self-supervised models, Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024**
+- [On the social bias of speech self-supervised models](https://arxiv.org/abs/2406.04997), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024**
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022 Best Paper Finalists**
 
 # 📖 Educations
