@@ -71,8 +71,8 @@ If there are any possibilities for research collaboration, please feel free to c
 - *2022.09 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
-# Honors and Awards
-- Interspeech 2024 Travel Grant 🏆
+# 🏆 Honors and Awards
+- Interspeech 2024 Travel Grant
 
 # 💻 Internships
 - *2021.07 - 2021-09*, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
