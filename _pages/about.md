@@ -23,7 +23,8 @@ I am eager to explore new research areas and am currently looking for research i
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece!
+- *2024.09*: &nbsp;🎉🎉 Two papers accepted at SLT 2024 main conference track. See you in Macao 🇲🇴!
+- *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece 🇬🇷!
 - *2023.09*: &nbsp;🎉🎉 One paper accepeted at ASRU 2023.
 
 # 📝 Publications 
@@ -67,7 +68,7 @@ If there are any possibilities for research collaboration, please feel free to c
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022 Best Paper Finalists**
 
 # 📖 Educations
-- *(start from)2024.09*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
+- *2024.09 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
 - *2022.09 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
