@@ -29,6 +29,18 @@ If there are any possibilities for research collaboration, please feel free to c
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Property Neurons in Self-Supervised Speech Transformers](https://arxiv.org/abs/2409.05910)
+
+**Tzu-Quan Lin**, Guan-Ting Lin, Hung-yi Lee, Hao Tang
+
+- In this work, we identify a set of property neurons in the feedforward layers of Transformers to study how speech-related properties, such as phones, gender, and pitch, are stored.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2024</div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
