@@ -69,7 +69,7 @@ If there are any possibilities for research collaboration, please feel free to c
 
 [Compressing Transformer-based self-supervised models for speech processing](https://arxiv.org/abs/2211.09949)
 
-**Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Chang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
+**Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Charly registrationang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
 
 [**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
 - This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
@@ -84,6 +84,9 @@ If there are any possibilities for research collaboration, please feel free to c
 - *2024.09 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
 - *2022.09 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
+
+# 🏆 Honors and Awards
+- Interspeech 2024 Travel Grant
 
 # 💻 Internships
 - *2021.07 - 2021-09*, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
