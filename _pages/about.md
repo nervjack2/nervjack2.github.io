@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a first-year PhD student at National Taiwan University, supervised by Prof. Hung-yi Lee, in the Speech Processing and Machine Learning Lab. 
-My research interests include speech self-supervised models, model compression, and neuron analysis. 
+My research interests include speech foundation models, spoken language models, model compression, neuron analysis, and model merging. 
 I am eager to explore new research areas and am currently looking for research internships for the year 2025. 
 If there are any possibilities for research collaboration, please feel free to contact me.
 
