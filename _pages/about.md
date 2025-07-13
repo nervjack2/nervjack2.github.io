@@ -53,8 +53,20 @@ If there are any possibilities for research collaboration, please feel free to c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Identifying Speaker Information in Feed-Forward Layers of Self-Supervised Speech Transformers](https://arxiv.org/abs/2506.21712)
+
+**Tzu-Quan Lin**, Hsi-Chun Cheng, Hung-yi Lee, Hao Tang
+
+- This work identifies speaker-relevant neurons in self-supervised speech Transformers and shows that preserving them during pruning helps maintain performance on speaker-related tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Property Neurons in Self-Supervised Speech Transformers](https://arxiv.org/abs/2409.05910)
 
