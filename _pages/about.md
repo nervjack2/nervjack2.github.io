@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year PhD student at National Taiwan University, supervised by Prof. Hung-yi Lee, in the Speech Processing and Machine Learning Lab. 
+I am currently a second-year PhD student at National Taiwan University, supervised by Prof. Hung-yi Lee, in the Speech Processing and Machine Learning Lab. 
 My research interests include speech foundation models, spoken language models, model compression, neuron analysis, and model merging. 
-I am eager to explore new research areas and am currently looking for research internships for the year 2025. 
+I am eager to explore new research areas and am currently looking for research internships for the year 2026. 
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
@@ -63,9 +63,6 @@ If there are any possibilities for research collaboration, please feel free to c
 - This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
@@ -121,8 +118,8 @@ If there are any possibilities for research collaboration, please feel free to c
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022, Best Paper Finalists**
 
 # 📖 Educations
-- *2024.09 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
-- *2022.09 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
+- *2024.07 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
+- *2022.07 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
 # 🏆 Honors and Awards
