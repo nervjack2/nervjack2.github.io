@@ -53,6 +53,21 @@ If there are any possibilities for research collaboration, please feel free to c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)
+
+**Tzu-Quan Lin**, Heng-Cheng Kuo, Tzu-Chieh Wei, Hsi-Chun Cheng, Chun-Wei Chen, Hsien-Fu Hsiao, Yu Tsao, Hung-yi Lee
+
+- This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
