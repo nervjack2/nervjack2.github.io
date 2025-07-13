@@ -29,6 +29,30 @@ If there are any possibilities for research collaboration, please feel free to c
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Is Smaller Always Faster? Tradeoffs in Compressing Self-Supervised Speech Transformers](https://arxiv.org/abs/2211.09949)
+
+**Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Charly registrationang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
+
+[**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
+- This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)
+
+**Tzu-Quan Lin**, Wei-Ping Huang, Hao Tang, Hung-yi Lee
+
+- Speech-FT is a two-stage fine-tuning framework designed for speech representation learning. It improves performance on specific tasks while maintaining cross-task generalization ability.
+- Speech-FT improves HuBERT’s performance on SUPERB by reducing phone error rate from 5.17% to 3.94%, lowering word error rate from 6.38% to 5.75%, and boosting speaker ID accuracy from 81.86% to 84.11%.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,17 +88,6 @@ If there are any possibilities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TASLP (under review)</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Compressing Transformer-based self-supervised models for speech processing](https://arxiv.org/abs/2211.09949)
-
-**Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Charly registrationang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
-
-[**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
-- This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
-</div>
-</div>
 
 - [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **SLT 2024**
 - [On the social bias of speech self-supervised models](https://arxiv.org/abs/2406.04997), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024, Best Paper Runner-up in Special Session**
