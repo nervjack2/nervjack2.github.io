@@ -23,13 +23,14 @@ I am eager to explore new research areas and am currently looking for research i
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper accepted at ASRU 2025 main conference track. See you in Hawaii 🇺🇸🥥🌴!
 - *2024.09*: &nbsp;🎉🎉 Two papers accepted at SLT 2024 main conference track. See you in Macao 🇲🇴!
 - *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece 🇬🇷!
 - *2023.09*: &nbsp;🎉🎉 One paper accepeted at ASRU 2023.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2025</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Is Smaller Always Faster? Tradeoffs in Compressing Self-Supervised Speech Transformers](https://arxiv.org/abs/2211.09949)
