@@ -23,7 +23,7 @@ I am eager to explore new research areas and am currently looking for research i
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
-- *2025.08*: 🎉🎉 One paper accepted at APSIPA ASC 2025 main conference track. See you in Singapore 🇸🇬!
+- *2025.08*: &nbsp;🎉🎉 One paper accepted at APSIPA ASC 2025 main conference track. See you in Singapore 🇸🇬!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted at ASRU 2025 main conference track. See you in Hawaii 🇺🇸🥥🌴!
 - *2024.09*: &nbsp;🎉🎉 Two papers accepted at SLT 2024 main conference track. See you in Macao 🇲🇴!
 - *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece 🇬🇷!
