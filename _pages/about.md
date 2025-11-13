@@ -23,6 +23,7 @@ I am eager to explore new research areas and am currently looking for research i
 If there are any possibilities for research collaboration, please feel free to contact me.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Journal accepted at IEEE Transactions on Audio, Speech and Language Processing (TASLP)!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted at APSIPA ASC 2025 main conference track. See you in Singapore 🇸🇬!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted at ASRU 2025 main conference track. See you in Hawaii 🇺🇸🥥🌴!
 - *2024.09*: &nbsp;🎉🎉 Two papers accepted at SLT 2024 main conference track. See you in Macao 🇲🇴!
@@ -30,6 +31,18 @@ If there are any possibilities for research collaboration, please feel free to c
 - *2023.09*: &nbsp;🎉🎉 One paper accepeted at ASRU 2023.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASLP</div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)
+
+**Tzu-Quan Lin**, Wei-Ping Huang, Hao Tang, Hung-yi Lee
+
+- Speech-FT is a two-stage fine-tuning framework designed for speech representation learning. It improves performance on specific tasks while maintaining cross-task generalization ability.
+- Speech-FT improves HuBERT’s performance on SUPERB by reducing phone error rate from 5.17% to 3.94%, lowering word error rate from 6.38% to 5.75%, and boosting speaker ID accuracy from 81.86% to 84.11%.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2025</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,18 +53,6 @@ If there are any possibilities for research collaboration, please feel free to c
 
 [**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
 - This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)
-
-**Tzu-Quan Lin**, Wei-Ping Huang, Hao Tang, Hung-yi Lee
-
-- Speech-FT is a two-stage fine-tuning framework designed for speech representation learning. It improves performance on specific tasks while maintaining cross-task generalization ability.
-- Speech-FT improves HuBERT’s performance on SUPERB by reducing phone error rate from 5.17% to 3.94%, lowering word error rate from 6.38% to 5.75%, and boosting speaker ID accuracy from 81.86% to 84.11%.
 </div>
 </div>
 
