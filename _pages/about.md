@@ -74,7 +74,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/compression-trade-off.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Is Smaller Always Faster? Tradeoffs in Compressing Self-Supervised Speech Transformers](https://arxiv.org/abs/2211.09949)
@@ -102,7 +102,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/property-neurons-high-level.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Property Neurons in Self-Supervised Speech Transformers](https://arxiv.org/abs/2409.05910)
