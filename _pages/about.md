@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year PhD student at National Taiwan University, supervised by Prof. Hung-yi Lee, in the Speech Processing and Machine Learning Lab. 
-My research interests include speech foundation models, spoken language models, model compression, neuron analysis, and model merging. 
-I am eager to explore new research areas and am currently looking for research internships for the year 2026. 
-If there are any possibilities for research collaboration, please feel free to contact me.
+A final-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 7 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
+I am eager to explore new research areas and am currently seeking a full-time research position starting in 2027.
+If there are any opportunities for research collaboration, please feel free to contact me.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Journal accepted at IEEE Transactions on Audio, Speech and Language Processing (TASLP)!
+- *2026.04*: &nbsp;🎉🎉 Two paper accepted at ACL 2026 (1 main conference, 1 findings)! See you in San Diego 🇺🇸🏖️🐻‍❄️!
+- *2025.11*: &nbsp;🎉🎉 Journal accepted at IEEE Transactions on Audio, Speech and Language Processing (TASLP)! Will be presented at ICASSP 2026. See you in Spain 🇪🇸!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted at APSIPA ASC 2025 main conference track. See you in Singapore 🇸🇬!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted at ASRU 2025 main conference track. See you in Hawaii 🇺🇸🥥🌴!
 - *2024.09*: &nbsp;🎉🎉 Two papers accepted at SLT 2024 main conference track. See you in Macao 🇲🇴!
