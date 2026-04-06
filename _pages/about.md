@@ -89,7 +89,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/cluster-neurons-high-level.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identifying Speaker Information in Feed-Forward Layers of Self-Supervised Speech Transformers](https://arxiv.org/abs/2506.21712)
