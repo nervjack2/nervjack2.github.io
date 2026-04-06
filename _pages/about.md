@@ -32,7 +32,7 @@ If there are any opportunities for research collaboration, please feel free to c
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/mamba_ssl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)
