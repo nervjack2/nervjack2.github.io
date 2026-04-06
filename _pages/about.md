@@ -45,7 +45,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/qwen_AVERAGED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/lalm-cd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How Contrastive Decoding Enhances Large Audio Language Models?](https://arxiv.org/abs/2603.09232)
