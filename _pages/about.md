@@ -43,13 +43,15 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/qwen_AVERAGED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/qwen_AVERAGED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How Contrastive Decoding Enhances Large Audio Language Models?](https://arxiv.org/abs/2603.09232)
 
 **Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
+**Under Review**
 
+[**Project**](https://github.com/nervjack2/LALM-Contrastive-Decoding-Error-Profiles)
 - Developed a novel Transition Matrix framework to evaluate contrastive decoding in Large Audio Language Models, proving its efficacy in correcting audio blindness and uncertainty errors.
 </div>
 </div>
@@ -61,6 +63,7 @@ If there are any opportunities for research collaboration, please feel free to c
 
 **Tzu-Quan Lin**, Wei-Ping Huang, Hao Tang, Hung-yi Lee
 
+[**Project**](https://github.com/nervjack2/Speech-FT)
 - Speech-FT is a two-stage fine-tuning framework designed for speech representation learning. It improves performance on specific tasks while maintaining cross-task generalization ability.
 - Speech-FT improves HuBERT’s performance on SUPERB by reducing phone error rate from 5.17% to 3.94%, lowering word error rate from 6.38% to 5.75%, and boosting speaker ID accuracy from 81.86% to 84.11%.
 </div>
@@ -98,6 +101,7 @@ If there are any opportunities for research collaboration, please feel free to c
 
 **Tzu-Quan Lin**, Guan-Ting Lin, Hung-yi Lee, Hao Tang
 
+[**Project**](https://github.com/nervjack2/PropertyNeurons)
 - In this work, we identify a set of property neurons in the feedforward layers of Transformers to study how speech-related properties, such as phones, gender, and pitch, are stored.
 </div>
 </div>
