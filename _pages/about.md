@@ -59,7 +59,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/fine-tuned.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)
