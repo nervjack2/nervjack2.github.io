@@ -32,12 +32,14 @@ If there are any opportunities for research collaboration, please feel free to c
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 main conference</div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)
 
 **Tzu-Quan Lin**, Heng-Cheng Kuo, Tzu-Chieh Wei, Hsi-Chun Cheng, Chun-Wei Chen, Hsien-Fu Hsiao, Yu Tsao, Hung-yi Lee
+
+**ACL 2026 main conference**
 
 - This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
 </div>
@@ -57,12 +59,14 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASLP</div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)
 
 **Tzu-Quan Lin**, Wei-Ping Huang, Hao Tang, Hung-yi Lee
+
+**IEEE TASLP**
 
 [**Project**](https://github.com/nervjack2/Speech-FT)
 - Speech-FT is a two-stage fine-tuning framework designed for speech representation learning. It improves performance on specific tasks while maintaining cross-task generalization ability.
@@ -70,12 +74,14 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2025, Best Student Paper Finalist</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Is Smaller Always Faster? Tradeoffs in Compressing Self-Supervised Speech Transformers](https://arxiv.org/abs/2211.09949)
 
 **Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Charly registrationang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
+
+**ASRU 2025, Best Student Paper Finalist**
 
 [**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
 - This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
@@ -83,24 +89,27 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA ASC 2025</div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/clusterneurons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identifying Speaker Information in Feed-Forward Layers of Self-Supervised Speech Transformers](https://arxiv.org/abs/2506.21712)
 
 **Tzu-Quan Lin**, Hsi-Chun Cheng, Hung-yi Lee, Hao Tang
 
+**APSIPA ASC 2025**
+
 - This work identifies speaker-relevant neurons in self-supervised speech Transformers and shows that preserving them during pruning helps maintain performance on speaker-related tasks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/propertyneurons-slt-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Property Neurons in Self-Supervised Speech Transformers](https://arxiv.org/abs/2409.05910)
 
 **Tzu-Quan Lin**, Guan-Ting Lin, Hung-yi Lee, Hao Tang
+
+**IEEE SLT 2024**
 
 [**Project**](https://github.com/nervjack2/PropertyNeurons)
 - In this work, we identify a set of property neurons in the feedforward layers of Transformers to study how speech-related properties, such as phones, gender, and pitch, are stored.
@@ -108,33 +117,36 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2024</div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models](https://arxiv.org/abs/2406.05464)
 
 **Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
 
+**Interspeech 2024**
+
 - This work introduces a novel early exit method for speech self-supervised models that enhances the speed of HuBERT with minimal performance loss.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2023</div><img src='_pages/images/melhubert-asru-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/melhubert-asru-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MelHuBERT: A Simplified Hubert on Mel Spectrograms](https://ieeexplore.ieee.org/abstract/document/10389700)
 
 **Tzu-Quan Lin**, Hung-yi Lee, Hao Tang
 
+**IEEE ASRU 2023**
+
 [**Project**](https://github.com/nervjack2/MelHuBERT)
 - MelHuBERT simplifies the model architecture and loss function of HuBERT, achieving comparable performance while saving 33.5% of MACs per one second of speech.
 </div>
 </div>
 
-
-- [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **SLT 2024**
+- [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **IEEE SLT 2024**
 - [On the social bias of speech self-supervised models](https://arxiv.org/abs/2406.04997), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024, Best Paper Runner-up in Special Session**
-- [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022, Best Paper Finalists**
+- [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **IEEE SLT 2022, Best Paper Finalists**
 - [Pseudo2Real: Task Arithmetic for Pseudo-Label  Correction in Automatic Speech Recognition](https://arxiv.org/abs/2510.08047), Yi-Cheng Lin, Yu-Hsuan Li Liang, Hsuan Su, **Tzu-Quan Lin**, Shang-Tse Chen, Yun-Nung Chen, Hung-yi Lee, **ACL 2026 Findings**
 
 # 📖 Educations
