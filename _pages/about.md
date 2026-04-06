@@ -49,6 +49,7 @@ If there are any opportunities for research collaboration, please feel free to c
 [How Contrastive Decoding Enhances Large Audio Language Models?](https://arxiv.org/abs/2603.09232)
 
 **Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
+
 **Under Review**
 
 [**Project**](https://github.com/nervjack2/LALM-Contrastive-Decoding-Error-Profiles)
