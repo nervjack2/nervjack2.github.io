@@ -117,7 +117,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/daisy-interspeech-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/DAISY-high-level.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DAISY: Data Adaptive Self-Supervised Early Exit for Speech Representation Models](https://arxiv.org/abs/2406.05464)
