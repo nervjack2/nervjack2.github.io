@@ -30,7 +30,29 @@ If there are any possibilities for research collaboration, please feel free to c
 - *2024.06*: &nbsp;🎉🎉 Two papers accepted at Interspeech 2024. See you in Greece 🇬🇷!
 - *2023.09*: &nbsp;🎉🎉 One paper accepeted at ASRU 2023.
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 main conference</div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)
+
+**Tzu-Quan Lin**, Heng-Cheng Kuo, Tzu-Chieh Wei, Hsi-Chun Cheng, Chun-Wei Chen, Hsien-Fu Hsiao, Yu Tsao, Hung-yi Lee
+
+- This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/qwen_AVERAGED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Contrastive Decoding Enhances Large Audio Language Models?](https://arxiv.org/abs/2603.09232)
+
+**Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
+
+- Developed a novel Transition Matrix framework to evaluate contrastive decoding in Large Audio Language Models, proving its efficacy in correcting audio blindness and uncertainty errors.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASLP</div><img src='_pages/images/speechft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +66,7 @@ If there are any possibilities for research collaboration, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2025</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2025, Best Student Paper Finalist</div><img src='_pages/images/compression-taslp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Is Smaller Always Faster? Tradeoffs in Compressing Self-Supervised Speech Transformers](https://arxiv.org/abs/2211.09949)
@@ -53,17 +75,6 @@ If there are any possibilities for research collaboration, please feel free to c
 
 [**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
 - This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='_pages/images/mamba-ssl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)
-
-**Tzu-Quan Lin**, Heng-Cheng Kuo, Tzu-Chieh Wei, Hsi-Chun Cheng, Chun-Wei Chen, Hsien-Fu Hsiao, Yu Tsao, Hung-yi Lee
-
-- This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
 </div>
 </div>
 
@@ -119,6 +130,7 @@ If there are any possibilities for research collaboration, please feel free to c
 - [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **SLT 2024**
 - [On the social bias of speech self-supervised models](https://arxiv.org/abs/2406.04997), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024, Best Paper Runner-up in Special Session**
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **SLT 2022, Best Paper Finalists**
+- [Pseudo2Real: Task Arithmetic for Pseudo-Label  Correction in Automatic Speech Recognition](https://arxiv.org/abs/2510.08047), Yi-Cheng Lin, Yu-Hsuan Li Liang, Hsuan Su, **Tzu-Quan Lin**, Shang-Tse Chen, Yun-Nung Chen, Hung-yi Lee, **ACL 2026 Findings**
 
 # 📖 Educations
 - *2024.07 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
