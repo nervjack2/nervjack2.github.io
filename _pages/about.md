@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A final-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 7 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
+A second-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 7 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
 I am eager to explore new research areas and am currently seeking a full-time research position starting in 2027.
 If there are any opportunities for research collaboration, please feel free to contact me.
 
