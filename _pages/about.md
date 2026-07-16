@@ -153,8 +153,7 @@ If there are any opportunities for research collaboration, please feel free to c
 - [Pseudo2Real: Task Arithmetic for Pseudo-Label  Correction in Automatic Speech Recognition](https://arxiv.org/abs/2510.08047), Yi-Cheng Lin, Yu-Hsuan Li Liang, Hsuan Su, **Tzu-Quan Lin**, Shang-Tse Chen, Yun-Nung Chen, Hung-yi Lee, **ACL 2026 Findings**
 
 # 📖 Educations
-- *2024.07 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University
-- *2022.07 - 2024.06*, Master in CSIE, Networking and Multimedia, National Taiwan University
+- *2022.07 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University (transferred from M.S. program in 2024.09)
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
 # 🏆 Honors and Awards
