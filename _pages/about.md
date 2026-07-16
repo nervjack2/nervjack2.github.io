@@ -145,8 +145,8 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
-- CAAD: Contrastive Audio-Aware Distillation for Efficient Speech Language Models, Chun-Wei Chen, **Tzu-Quan Lin**, Ke-Han Lu, Wei-Ping Huang, Hung-Yi Lee. **INTERSPEECH 2026**
-- AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration, Chia-Yu Lee, Huang-Cheng Chou\*, **Tzu-Quan Lin**\*, Yuanchao Li\*, Ya-Tse Wu, Shrikanth Narayanan, Chi-Chun Lee. **INTERSPEECH 2026**
+- [CAAD: Contrastive Audio-Aware Distillation for Efficient Speech Language Models](https://arxiv.org/abs/2606.23052), Chun-Wei Chen, **Tzu-Quan Lin**, Ke-Han Lu, Wei-Ping Huang, Hung-Yi Lee. **INTERSPEECH 2026**
+- [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/abs/2603.25041), Chia-Yu Lee, Huang-Cheng Chou\*, **Tzu-Quan Lin**\*, Yuanchao Li\*, Ya-Tse Wu, Shrikanth Narayanan, Chi-Chun Lee. **INTERSPEECH 2026**
 - [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **IEEE SLT 2024**
 - [On the social bias of speech self-supervised models](https://arxiv.org/abs/2406.04997), Yi-Cheng Lin, **Tzu-Quan Lin**, Hsi-Che Lin, Andy t. Liu, Hung-yi Lee. **Interspeech 2024, Best Paper Runner-up in Special Session**
 - [Superb @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/10022770), Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, **Tzu-Quan Lin**, Jiatong Shi, et al.. **IEEE SLT 2022, Best Paper Finalists**
