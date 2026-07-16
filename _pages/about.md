@@ -170,8 +170,12 @@ If there are any opportunities for research collaboration, please feel free to c
 - *2025*, Reviewer for EMNLP 2025, EACL 2026, ICASSP 2026, ACML 2025, ROCLING 2025
 - *2024*, Reviewer for NeurIPS 2024, ISCSLP 2024
 
-# 💻 Internships
+# 🔬 Research Experience
 - *2026.01 - 2026.06*, Deep Learning Research Intern, MediaTek Research, Taipei, Taiwan.
   - Revisited the narrow-wide-narrow Transformer FFN convention with residual hourglass bottlenecks, achieving comparable language-modeling quality up to 8B parameters with 2-4% fewer training FLOPs and up to 1.9x faster 64k-context decoding.
+- *2022.09 - now*, Graduate Researcher, Speech Processing and Machine Learning Lab, National Taiwan University.
+  - Led multiple projects with internal and external collaborators on efficiency, interpretability, and fine-tuning of pre-trained speech models, publishing 7 first-author papers at top-tier speech/NLP conferences and journals.
+- *2022.07*, Research Team Leader, 8th JSALT Summer Workshop, Virtual (hosted from Baltimore, USA).
+  - Studied how to simplify pre-trained speech models while maintaining comparable performance, and highlighted key tradeoffs between model size, speed, and performance in compression methods.
 - *2021.07 - 2021-09*, Machine Learning Engineer Intern, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
   - Researched a novel method for X-ray image fracture detection, focusing on both localization and severity classification.
