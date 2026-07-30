@@ -171,6 +171,8 @@ If there are any opportunities for research collaboration, please feel free to c
 - *2024*, Reviewer for NeurIPS 2024, ISCSLP 2024
 
 # 🔬 Research Experience
+- *2026.08 - 2027.01*, Visiting Researcher, Centre for Speech Technology Research, University of Edinburgh, Edinburgh, UK.
+  - Researching explainable large audio language models (LALMs).
 - *2026.01 - 2026.06*, Deep Learning Research Intern, MediaTek Research, Taipei, Taiwan.
   - Revisited the narrow-wide-narrow Transformer FFN convention with residual hourglass bottlenecks, achieving comparable language-modeling quality up to 8B parameters with 2-4% fewer training FLOPs and up to 1.9x faster 64k-context decoding.
 - *2022.09 - now*, Graduate Researcher, Speech Processing and Machine Learning Lab, National Taiwan University.
