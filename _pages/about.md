@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A second-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 7 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
+A third-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 8 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
 I am eager to explore new research areas and am currently seeking a full-time research position starting in 2027.
 If there are any opportunities for research collaboration, please feel free to contact me.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper accepted at IEEE SLT 2026! See you in Sicily 🇮🇹!
 - *2026.06*: &nbsp;🎉🎉 Two papers accepted at INTERSPEECH 2026!
 - *2026.04*: &nbsp;🎉🎉 Two paper accepted at ACL 2026 (1 main conference, 1 findings)! See you in San Diego 🇺🇸🏖️🐻‍❄️!
 - *2025.11*: &nbsp;🎉🎉 Journal accepted at IEEE Transactions on Audio, Speech and Language Processing (TASLP)! Will be presented at ICASSP 2026. See you in Spain 🇪🇸!
@@ -33,6 +34,20 @@ If there are any opportunities for research collaboration, please feel free to c
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/lalm-cd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Contrastive Decoding Enhances Large Audio Language Models](https://arxiv.org/abs/2603.09232)
+
+**Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
+
+**IEEE SLT 2026**
+
+[**Project**](https://github.com/nervjack2/LALM-Contrastive-Decoding-Error-Profiles)
+- Developed a novel Transition Matrix framework to evaluate contrastive decoding in Large Audio Language Models, proving its efficacy in correcting audio blindness and uncertainty errors.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/mamba_ssl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,20 +58,6 @@ If there are any opportunities for research collaboration, please feel free to c
 **ACL 2026 main conference**
 
 - This work explores Mamba-based HuBERT as a speech SSL model, showing its advantages in long-context and streaming ASR, improved speech unit quality, and competitive performance on probing tasks compared to Transformer-based models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/lalm-cd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[How Contrastive Decoding Enhances Large Audio Language Models?](https://arxiv.org/abs/2603.09232)
-
-**Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
-
-**Under Review**
-
-[**Project**](https://github.com/nervjack2/LALM-Contrastive-Decoding-Error-Profiles)
-- Developed a novel Transition Matrix framework to evaluate contrastive decoding in Large Audio Language Models, proving its efficacy in correcting audio blindness and uncertainty errors.
 </div>
 </div>
 
@@ -82,7 +83,7 @@ If there are any opportunities for research collaboration, please feel free to c
 
 **Tzu-Quan Lin**, Tsung-Huan Yang, Chun-Yao Chang, Kuang-Ming Chen, Tzu-hsun Feng, Hung-yi Lee, Hao Tang
 
-**ASRU 2025, Best Student Paper Finalist**
+**IEEE ASRU 2025, Best Student Paper Finalist**
 
 [**Project**](https://github.com/nervjack2/Speech-SSL-Compression/)
 - This work propose evaluating model compression methods using three different metrics: MACs, number of parameters, and real-time factor. We find that different compression methods excel in different metrics.
@@ -110,7 +111,7 @@ If there are any opportunities for research collaboration, please feel free to c
 
 **Tzu-Quan Lin**, Guan-Ting Lin, Hung-yi Lee, Hao Tang
 
-**IEEE SLT 2024**
+**SLT 2024**
 
 [**Project**](https://github.com/nervjack2/PropertyNeurons)
 - In this work, we identify a set of property neurons in the feedforward layers of Transformers to study how speech-related properties, such as phones, gender, and pitch, are stored.
@@ -166,7 +167,7 @@ If there are any opportunities for research collaboration, please feel free to c
 - *2022*, Best Paper Finalist, IEEE SLT 2022, 6 out of 363 accepted papers
 
 # 📚 Academic Services
-- *2026*, Reviewer for NeurIPS 2026, EMNLP 2026, IEEE TASLP, INTERSPEECH 2026, SLT 2026
+- *2026*, Reviewer for NeurIPS 2026, EMNLP 2026, IEEE TASLP, INTERSPEECH 2026, SLT 2026, IEEE Signal Processing Letters, Knowledge-Based Systems
 - *2025*, Reviewer for EMNLP 2025, EACL 2026, ICASSP 2026, ACML 2025, ROCLING 2025
 - *2024*, Reviewer for NeurIPS 2024, ISCSLP 2024
 
