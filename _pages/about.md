@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A third-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 8 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
+A final-year Ph.D. student in National Taiwan University, advised by Prof. Hung-yi Lee. Research centers on efficiency, interpretability, and fine-tuning of large pre-trained speech models, with 8 first-author papers published at top-tier speech/NLP conferences or journals (IEEE TASLP, ACL, INTERSPEECH, IEEE ASRU, IEEE SLT) and several collaborative works. Recipient of multiple competitive scholarships and awards, including selection as an IEEE ASRU 2025 Best Student Paper Award candidate, the ISCA Travel Grant, GICE Elite Doctoral Scholarship, MOE Doctoral Scholarship, and CTCI Research Scholarship. Experienced in academic services as a reviewer for leading conferences.
 I am eager to explore new research areas and am currently seeking a full-time research position starting in 2027.
 If there are any opportunities for research collaboration, please feel free to contact me.
 
@@ -37,7 +37,7 @@ If there are any opportunities for research collaboration, please feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/images/lalm-cd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How Contrastive Decoding Enhances Large Audio Language Models](https://arxiv.org/abs/2603.09232)
+[How Contrastive Decoding Enhances Large Audio Language Models](https://arxiv.org/abs/2603.09232v2)
 
 **Tzu-Quan Lin**, Wei-Ping Huang, Yi-Cheng Lin, Hung-yi Lee
 
@@ -146,6 +146,7 @@ If there are any opportunities for research collaboration, please feel free to c
 </div>
 </div>
 
+- [Revisiting the Shape Convention of Transformer Language Models](https://arxiv.org/abs/2602.06471), Feng-Ting Liao\*, Guan-Ting Yi\*, **Tzu-Quan Lin**\*, Meng-Hsi Chen, Da-shan Shiu. **Under review, 2026**
 - [CAAD: Contrastive Audio-Aware Distillation for Efficient Speech Language Models](https://arxiv.org/abs/2606.23052), Chun-Wei Chen, **Tzu-Quan Lin**, Ke-Han Lu, Wei-Ping Huang, Hung-Yi Lee. **INTERSPEECH 2026**
 - [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/abs/2603.25041), Chia-Yu Lee, Huang-Cheng Chou\*, **Tzu-Quan Lin**\*, Yuanchao Li\*, Ya-Tse Wu, Shrikanth Narayanan, Chi-Chun Lee. **INTERSPEECH 2026**
 - [Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models](https://arxiv.org/abs/2407.06957), Yi-Cheng Lin, **Tzu-Quan Lin**, Chih-Kai Yang, Ke-Han Lu, Wei-Chih Chen, Chun-Yi Kuan, Hung-yi Lee. **IEEE SLT 2024**
@@ -154,16 +155,16 @@ If there are any opportunities for research collaboration, please feel free to c
 - [Pseudo2Real: Task Arithmetic for Pseudo-Label  Correction in Automatic Speech Recognition](https://arxiv.org/abs/2510.08047), Yi-Cheng Lin, Yu-Hsuan Li Liang, Hsuan Su, **Tzu-Quan Lin**, Shang-Tse Chen, Yun-Nung Chen, Hung-yi Lee, **ACL 2026 Findings**
 
 # 📖 Educations
-- *2022.07 - now*, PhD in Electrical, Electronics, Communications Engineering (EE), Data Science and Smart Networking, National Taiwan University (transferred from M.S. program in 2024.09)
+- *2022.07 - now*, PhD in EECS, Communication Engineering, Data Science and Smart Networking, National Taiwan University (transferred from M.S. program in 2024.09)
 - *2018.09 - 2022.06*, Bachelor in Department of Computer Science and Information Engineering (CSIE), National Taiwan University 
 
 # 🏆 Honors and Awards
 - *2025*, IEEE ASRU 2025 Best Student Paper Finalist, selected as one of 11 out of 215 accepted papers
-- *2025*, CTCI Research Scholarship
+- *2025*, CTCI Research Scholarship, awarded by China Technical Consultants Incorporated (CTCI) to at most one recipient across the entire institute
 - *2024*, Best Paper Runner-up, INTERSPEECH 2024 Special Session
-- *2024*, Interspeech 2024 Travel Grant
-- *2024*, GICE Elite Doctoral Scholarship
-- *2024*, MOE Doctoral Scholarship
+- *2024*, ISCA Travel Grant, 1,000 Euros to attend INTERSPEECH 2024
+- *2024*, GICE Elite Doctoral Scholarship, the joint 4-year scholarship from the Graduate Institute of Communication Engineering and DELTA
+- *2024*, MOE Doctoral Scholarship, the 3-year scholarship awarded by the Ministry of Education, Taiwan
 - *2022*, Best Paper Finalist, IEEE SLT 2022, 6 out of 363 accepted papers
 
 # 📚 Academic Services
@@ -177,8 +178,22 @@ If there are any opportunities for research collaboration, please feel free to c
 - *2026.01 - 2026.06*, Deep Learning Research Intern, MediaTek Research, Taipei, Taiwan.
   - Revisited the narrow-wide-narrow Transformer FFN convention with residual hourglass bottlenecks, achieving comparable language-modeling quality up to 8B parameters with 2-4% fewer training FLOPs and up to 1.9x faster 64k-context decoding.
 - *2022.09 - now*, Graduate Researcher, Speech Processing and Machine Learning Lab, National Taiwan University.
-  - Led multiple projects with internal and external collaborators on efficiency, interpretability, and fine-tuning of pre-trained speech models, publishing 7 first-author papers at top-tier speech/NLP conferences and journals.
+  - Led multiple projects with internal and external collaborators on efficiency, interpretability, and fine-tuning of pre-trained speech models, publishing 8 first-author papers at top-tier speech/NLP conferences and journals.
 - *2022.07*, Research Team Leader, 8th JSALT Summer Workshop, Virtual (hosted from Baltimore, USA).
   - Studied how to simplify pre-trained speech models while maintaining comparable performance, and highlighted key tradeoffs between model size, speed, and performance in compression methods.
+  - Contributed to the SUPERB @ SLT 2022 challenge, extending the benchmark to assess the generalization and efficiency of pre-trained speech models.
 - *2021.07 - 2021-09*, Machine Learning Engineer Intern, [aetherAI](https://www.aetherai.com/), Taipei, Taiwan.
   - Researched a novel method for X-ray image fracture detection, focusing on both localization and severity classification.
+
+# 👨‍🏫 Teaching
+- *2022 - 2023*, Head Teaching Assistant, Introduction to Digital Speech Processing, National Taiwan University.
+  - Designed assignments, prepared midterm and final exams, and assisted students with course-related questions.
+- *2022 - 2023*, Teaching Assistant, Machine Learning, National Taiwan University.
+  - Prepared assignments and answered student questions.
+- *2022 - 2023*, Teaching Assistant, Deep Learning for Human Language Processing, National Taiwan University.
+  - Led a team research project on model compression for speech self-supervised models.
+
+# 🛠 Skills
+- **Programming**: Python, C, C++, LaTeX, Git
+- **Machine Learning**: PyTorch, TensorFlow, Hugging Face
+- **Language**: English (IELTS 7.5; Speaking: 7.0), Mandarin (Native)
