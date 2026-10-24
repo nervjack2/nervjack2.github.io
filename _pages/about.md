@@ -54,14 +54,14 @@ A final-year Ph.D. student at National Taiwan University advised by **Prof. Hung
 
 **[Uncovering Audio-Text Alignment in Large Audio-Language Models through Cross-Modal Concept Neurons](https://arxiv.org/abs/2610.28189)**
 
-**Tzu-Quan Lin**, Chih-Kai Yang, Yi-Cheng Lin, Hao Tang, Hung-yi Lee. *Under Review*
+**Tzu-Quan Lin**, Chih-Kai Yang\*, Yi-Cheng Lin\*, Hao Tang, Hung-yi Lee. *Under Review*
 
 Identified audio-text shared neurons that causally drive LALM perception of emotion and gender.
 </div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><a class='image-popup' href='_pages/images/lalm-cd.png'><img src='_pages/images/lalm-cd.png' alt='Contrastive decoding transition matrix'></a></div>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/lalm-cd-overview.png'><img src='_pages/images/lalm-cd-overview.png' alt='Contrastive decoding corrects errors where the LALM ignores the audio'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[How Contrastive Decoding Enhances Large Audio Language Models](https://arxiv.org/abs/2603.09232v2)**
