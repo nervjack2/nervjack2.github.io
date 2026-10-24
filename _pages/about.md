@@ -49,9 +49,10 @@ A final-year Ph.D. student at National Taiwan University advised by **Prof. Hung
 \* indicates equal contribution.
 
 <div class='paper-box'>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/concept-neurons.png'><img src='_pages/images/concept-neurons.png' alt='Identifying cross-modal concept neurons shared by audio and text'></a></div>
 <div class='paper-box-text' markdown="1">
 
-**Uncovering Audio-Text Alignment in Large Audio-Language Models through Cross-Modal Concept Neurons**
+**[Uncovering Audio-Text Alignment in Large Audio-Language Models through Cross-Modal Concept Neurons](https://arxiv.org/abs/2610.28189)**
 
 **Tzu-Quan Lin**, Chih-Kai Yang, Yi-Cheng Lin, Hao Tang, Hung-yi Lee. *Under Review*
 
@@ -72,6 +73,7 @@ Showed that contrastive decoding in LALMs fixes audio-blindness errors but not f
 </div>
 
 <div class='paper-box'>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/hourglass-ffn.png'><img src='_pages/images/hourglass-ffn.png' alt='Conventional vs. hourglass Transformer block'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[Revisiting the Shape Convention of Transformer Language Models](https://arxiv.org/abs/2602.06471)**
@@ -83,7 +85,7 @@ Hourglass FFNs match standard Transformers with 8.7% less training compute and h
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><a class='image-popup' href='_pages/images/fine-tuned.png'><img src='_pages/images/fine-tuned.png' alt='Speech-FT overview'></a></div>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/speech-ft-overview.png'><img src='_pages/images/speech-ft-overview.png' alt='Speech-FT: fine-tune, then merge in weight space'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation Models For Cross-Task Generalization](https://arxiv.org/abs/2502.12672)**
@@ -95,7 +97,7 @@ Uses model merging so fine-tuning strengthens pre-trained speech encoder represe
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><a class='image-popup' href='_pages/images/mamba_ssl.png'><img src='_pages/images/mamba_ssl.png' alt='Mamba-based speech SSL'></a></div>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/mamba-overview.png'><img src='_pages/images/mamba-overview.png' alt='Replacing self-attention with Mamba in HuBERT'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[An Exploration of Mamba for Speech Self-Supervised Models](https://arxiv.org/abs/2506.12606)**
@@ -131,7 +133,7 @@ Proposed an early exit method that speeds up HuBERT with minimal performance los
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><a class='image-popup' href='_pages/images/property-neurons-high-level.png'><img src='_pages/images/property-neurons-high-level.png' alt='Property neurons overview'></a></div>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/property-neurons.png'><img src='_pages/images/property-neurons.png' alt='Property neurons encode phone, gender, and pitch'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[Property Neurons in Self-Supervised Speech Transformers](https://arxiv.org/abs/2409.05910)**
@@ -155,7 +157,7 @@ Studied how to simplify pre-trained speech models while maintaining comparable p
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><a class='image-popup' href='_pages/images/cluster-neurons-high-level.png'><img src='_pages/images/cluster-neurons-high-level.png' alt='Speaker neurons overview'></a></div>
+<div class='paper-box-image'><a class='image-popup' href='_pages/images/speaker-neurons.png'><img src='_pages/images/speaker-neurons.png' alt='Cluster neurons found without human labels'></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[Identifying Speaker Information in Feed-Forward Layers of Self-Supervised Speech Transformers](https://arxiv.org/abs/2506.21712)**
