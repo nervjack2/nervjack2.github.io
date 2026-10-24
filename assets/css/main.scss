@@ -42,49 +42,56 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 1em;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 1.5em 0;
 
+    // Figures come in very different aspect ratios, so every thumbnail sits in
+    // the same 16:10 frame and is letterboxed (never cropped) inside it.
     .paper-box-image{
-        justify-content: center;
-        display: flex;
         width: 100%;
-        order: 2;
+        max-width: 400px;
+        a, img {
+            display: block;
+        }
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 100%;
+            aspect-ratio: 16 / 10;
+            object-fit: contain;
+            box-sizing: border-box;
+            padding: 8px;
+            background: #fff;
+            border: 1px solid #e6e6e6;
+            border-radius: 6px;
+            transition: box-shadow .2s;
+        }
+        a:hover img {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, .12);
         }
     }
-    
+
     .paper-box-text{
-        max-width: 100%;
-        order: 1;
+        flex: 1;
+        min-width: 0;
+        p {
+            margin: 0 0 .5em;
+        }
+        p:last-child {
+            margin-bottom: 0;
+        }
     }
-    
+
     @include breakpoint($medium) {
+        flex-direction: row;
+        align-items: center;
+        gap: 1.5em;
+
         .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
+            flex: 0 0 34%;
+            max-width: 280px;
         }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
